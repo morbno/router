@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouterCore", "RouterCore\RouterCore.csproj", "{8394313F-8FFE-40D3-9184-0339518F4E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEntryPoint", "TestEntryPoint\TestEntryPoint.csproj", "{23B36097-C1D8-48CA-B1EB-CBA393C84835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8394313F-8FFE-40D3-9184-0339518F4E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8394313F-8FFE-40D3-9184-0339518F4E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8394313F-8FFE-40D3-9184-0339518F4E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8394313F-8FFE-40D3-9184-0339518F4E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B36097-C1D8-48CA-B1EB-CBA393C84835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B36097-C1D8-48CA-B1EB-CBA393C84835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B36097-C1D8-48CA-B1EB-CBA393C84835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B36097-C1D8-48CA-B1EB-CBA393C84835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
